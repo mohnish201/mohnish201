@@ -11,13 +11,7 @@ Portfolio :- https://mohnish201.github.io/
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://pinterest.com/@mohnish201" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest">
-</a>
 
-<a href="https://codepen.io/mohnish201" target="_blank">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen">
-</a>
 
 
 # 💻 Tech Stack:
