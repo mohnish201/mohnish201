@@ -1,7 +1,7 @@
 # Hi there 👋  I am Mohnish Vishwakarma 
 
 # 💫 About Me:
-Highly motivated Full Stack Web Developer with proficiency in the MERN stack. Completed a rigorous 1200+ hour web development course at Masai School, mastering front-end and back-end development. Adept at implementing innovative solutions and collaborating effectively within teams. Meticulous attention to detail and a passion for problem-solving.
+I am a highly motivated Full Stack Web Developer with a strong foundation in prompt engineering and expertise in both the MERN and MEAN stacks. My journey includes an intensive 1200+ hour web development program at Masai School, where I honed my skills in frontend and backend development. I have a knack for implementing innovative solutions and thrive in collaborative engineering environments. My meticulous attention to detail and passion for problem-solving are key drivers that set me apart in the field.
 
 Portfolio :- https://mohnish201.github.io/
 
