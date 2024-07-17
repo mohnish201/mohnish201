@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="100%" src="https://cdn.mohnish.dev/linked%20banner.png"  />
+  <img width="100%" src="https://cdn.mohnish.dev/linked%20banner.png"  />
 </div>
 
 ###
