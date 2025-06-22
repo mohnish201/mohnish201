@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://cdn.mohnish.dev/images/uploads/2fee859f-def6-4272-9b41-4cb43966a25c" />
+  <img width="100%" src="https://cdn.mohnish.dev/images/2fee859f-def6-4272-9b41-4cb43966a25c" />
 </div>
 
 <h1 align="center">Mohnish Vishwakarma</h1>
